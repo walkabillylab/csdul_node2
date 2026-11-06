@@ -21,20 +21,47 @@ Canadian Social Determinants Urban Laboratory (CSDUL) - Node 2 Neighbourhood Opp
 
 ## Data Summaries 
 
-For the majority of data it is possible to share publicly, but some datasets, in particular those derived using 
+Data summaries are available below. The first file is the data documentation and the second is the code for basic data wrangling and visualization. All of these files are also available in the `pdf documents` folder and the rendered md files are available in the `markdown documents` folder. 
 
 - **Urban Sprawl Index** 
     * [Data Methods Documentation](https://github.com/walkabillylab/sprawl_score)
     * [Data Wrangling and Descriptive Statistics]()
 - **Dwelling Repair Needs** (`dewlling_data_CSDUL.csv`)
-- **Air Quality (Carbon Monoxide)** (`air_data_CSDUL.csv`; variable: `co_monoxide`)
-- **Air Quality (PM2.5)** (`air_data_CSDUL.csv`; variable: `pm_2_5`)
-- **Greenness Around Postal Codes** (`green_data_CSDUL.csv`)
-- **Gentrification Index** (`gentri_data_CSDUL.csv`)
-- **Food Environment Index (mRFEI)** (`food_data_CSDUL.csv`)
-- **Normalized Difference Vegetation Index (NDVI)** (`green_data_CSDUL_NDVI.csv`)
-- **Canadian Active Living Environments (Can-ALE)** (`canale_data_CSDUL.csv`)
-- **Tree Canopy Cover** (`tree_data_CSDUL.csv`)
-- **Flood Susceptibility Index** (`flood_risk`)
-- **Land Surface Temperature** (`land_temp`)
+    * [Data Methods Documentation](https://github.com/walkabillylab/csdul_node2/blob/main/pdf%20documents/Dwellings_Data_Documentation_CANUE.pdf)
+    * [Data Wrangling and Descriptive Statistics]()
 
+- **Air Quality (Carbon Monoxide and PM2.5)** (`air_data_CSDUL.csv`; variable: `co_monoxide`)
+    * [Data Methods Documentation](https://github.com/walkabillylab/csdul_node2/blob/main/pdf%20documents/Air_Quality_Documentation_CANUE.pdf)
+    * [Data Wrangling and Descriptive Statistics]()
+
+- **Greenness Around Postal Codes** (`green_data_CSDUL.csv`)
+    * [Data Methods Documentation](https://github.com/walkabillylab/csdul_node2/blob/main/pdf%20documents/Greenness_Data_Documentation_CANUE.pdf)
+    * [Data Wrangling and Descriptive Statistics]()
+
+- **Gentrification Index** (`gentri_data_CSDUL.csv`)
+    * [Data Methods Documentation](https://github.com/walkabillylab/csdul_node2/blob/main/pdf%20documents/Gentrification_Documentation_CANUE.pdf)
+    * [Data Wrangling and Descriptive Statistics]()
+
+- **Food Environment Index (mRFEI)** (`food_data_CSDUL.csv`)
+    * [Data Methods Documentation](https://github.com/walkabillylab/sprawl_score)
+    * [Data Wrangling and Descriptive Statistics]()
+
+- **Normalized Difference Vegetation Index (NDVI)** (`green_data_CSDUL_NDVI.csv`)
+    * [Data Methods Documentation](https://github.com/walkabillylab/sprawl_score)
+    * [Data Wrangling and Descriptive Statistics]()
+
+- **Canadian Active Living Environments (Can-ALE)** (`canale_data_CSDUL.csv`)
+    * [Data Methods Documentation](https://can-ale.ca/)
+    * [Data Wrangling and Descriptive Statistics]()
+
+- **Tree Canopy Cover** (`tree_data_CSDUL.csv`)
+    * [Data Methods Documentation]https://github.com/walkabillylab/csdul_node2/blob/main/pdf%20documents/Tree_Canopy_Documentation_CANUE.pdf)
+    * [Data Wrangling and Descriptive Statistics]()
+
+- **Flood Susceptibility Index** (`flood_risk_data_CSDUL.csv`)
+    * [Data Methods Documentation](https://github.com/walkabillylab/csdul_node2/blob/main/pdf%20documents/Flood_Risk_Documentation_CANUE.pdf)
+    * [Data Wrangling and Descriptive Statistics]()
+
+- **Land Surface Temperature** (`land_temp_data_CSDUL.csv`)
+    * [Data Methods Documentation](https://github.com/walkabillylab/csdul_node2/blob/main/pdf%20documents/Land_Surface_Temp_Documentation_CANUE.pdf)
+    * [Data Wrangling and Descriptive Statistics]()
