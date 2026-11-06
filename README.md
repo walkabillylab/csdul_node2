@@ -23,10 +23,10 @@ Canadian Social Determinants Urban Laboratory (CSDUL) - Node 2 Neighbourhood Opp
 
 Data summaries are available below. The first file is the data documentation and the second is the code for basic data wrangling and visualization. All of these files are also available in the `pdf documents` folder and the rendered md files are available in the `markdown documents` folder. 
 
-- **Urban Sprawl Index** 
+- **Urban Sprawl Index** (`sprawl_data_CSDUL.csv`)
     * [Data Methods Documentation](https://github.com/walkabillylab/sprawl_score)
     * [Data Wrangling and Descriptive Statistics](https://github.com/walkabillylab/csdul_node2/blob/main/markdown%20documents/Sprawl_Data_Prep.md)
-    
+
 - **Dwelling Repair Needs** (`dewlling_data_CSDUL.csv`)
     * [Data Methods Documentation](https://github.com/walkabillylab/csdul_node2/blob/main/pdf%20documents/Dwellings_Data_Documentation_CANUE.pdf)
     * [Data Wrangling and Descriptive Statistics](https://github.com/walkabillylab/csdul_node2/blob/main/markdown%20documents/Dwellings_Data_Prep.md)
@@ -34,10 +34,6 @@ Data summaries are available below. The first file is the data documentation and
 - **Air Quality (Carbon Monoxide and PM2.5)** (`air_data_CSDUL.csv`; variable: `co_monoxide`)
     * [Data Methods Documentation](https://github.com/walkabillylab/csdul_node2/blob/main/pdf%20documents/Air_Quality_Documentation_CANUE.pdf)
     * [Data Wrangling and Descriptive Statistics](https://github.com/walkabillylab/csdul_node2/blob/main/markdown%20documents/Air_Quality_Data_Prep.md)
-
-- **Greenness Around Postal Codes** (`green_data_CSDUL.csv`)
-    * [Data Methods Documentation](https://github.com/walkabillylab/csdul_node2/blob/main/pdf%20documents/Greenness_Data_Documentation_CANUE.pdf)
-    * [Data Wrangling and Descriptive Statistics]()
 
 - **Gentrification Index** (`gentri_data_CSDUL.csv`)
     * [Data Methods Documentation](https://github.com/walkabillylab/csdul_node2/blob/main/pdf%20documents/Gentrification_Documentation_CANUE.pdf)
@@ -48,15 +44,15 @@ Data summaries are available below. The first file is the data documentation and
     * [Data Wrangling and Descriptive Statistics](https://github.com/walkabillylab/csdul_node2/blob/main/markdown%20documents/Food_Data_Prep.md)
 
 - **Normalized Difference Vegetation Index (NDVI)** (`green_data_CSDUL_NDVI.csv`)
-    * [Data Methods Documentation]()
+    * [Data Methods Documentation](https://github.com/walkabillylab/csdul_node2/blob/main/pdf%20documents/Greenness_Data_Documentation_CANUE.pdf)
     * [Data Wrangling and Descriptive Statistics](https://github.com/walkabillylab/csdul_node2/blob/main/markdown%20documents/Greenness_Data_Prep_NDVI.md)
 
 - **Canadian Active Living Environments (Can-ALE)** (`canale_data_CSDUL.csv`)
     * [Data Methods Documentation](https://can-ale.ca/)
-    * [Data Wrangling and Descriptive Statistics]()
+    * [Data Wrangling and Descriptive Statistics](https://github.com/walkabillylab/csdul_node2/blob/main/markdown%20documents/Can_Ale_Data_Prep.md)
 
 - **Tree Canopy Cover** (`tree_data_CSDUL.csv`)
-    * [Data Methods Documentation]https://github.com/walkabillylab/csdul_node2/blob/main/pdf%20documents/Tree_Canopy_Documentation_CANUE.pdf)
+    * [Data Methods Documentation](https://github.com/walkabillylab/csdul_node2/blob/main/pdf%20documents/Tree_Canopy_Documentation_CANUE.pdf)
     * [Data Wrangling and Descriptive Statistics](https://github.com/walkabillylab/csdul_node2/blob/main/markdown%20documents/Tree_Canopy_Data_Prep.md)
 
 - **Flood Susceptibility Index** (`flood_risk_data_CSDUL.csv`)
