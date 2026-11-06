@@ -48,7 +48,7 @@ Data summaries are available below. The first file is the data documentation and
 
 ## Variable Description Table
 
-Detailed table about the data. If you prefer a `.csv` version there is one [here]().
+Detailed table about the data. If you prefer a `.csv` version there is one [here](https://github.com/walkabillylab/csdul_node2/blob/main/Node%202%20Data%20Summary.csv).
 
 | Data Set Name | Description | Key Indicator Variable | Variable Description | Units | Primary Geography | Methodological Documentation |
 |---------------|-------------|----------------------|---------------------|-------|-------------------|-----------------------------|
